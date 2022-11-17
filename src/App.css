@@ -28,7 +28,7 @@ a{
   justify-content: center;
 }
 
-.Book-list { 
+.book-list { 
 min-height: 80hv;
 width: 100%;
 display: grid;
@@ -56,7 +56,8 @@ text-align: center;
  padding: 10px;
 }
 
-.book-descripation{ 
+
+.book-description{ 
   margin: 0x 10px;
 
 }

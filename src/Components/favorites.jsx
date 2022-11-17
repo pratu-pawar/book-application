@@ -18,7 +18,7 @@ const Favorites = () =>{
 
     return( 
         <div className="favorites"> 
-         {Favorites.length > 0 ? favorites.map((book)=> ( 
+         {favorites.length > 0 ? favorites.map((book)=> ( 
         <div key={book.id} className="book"> 
         <div> 
             <h4>{book.title}</h4> 
